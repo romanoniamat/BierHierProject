@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', 'sans-serif';
+}
+#wrapper, footer {
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+}
+
+nav {
+     background: url("img/menu-acthergrond.jpg");
+     padding: 10px;
+ }
+nav a {
+    color: midnightblue;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 10px;
+}
+#tekst-uitslag {
+    float: right;
+    margin-top: -58px;
+    margin-right: 330px;
+}
+#handbal-vrouwen {
+    width: 485px;
+    margin-right: 20px;
+}
+#uitslagen {
+     width: 450px;
+     height: 273px;
+}
+#handbal-logo {
+    float: right;
+    margin-top: 15px;
+    height: 320px;
+    width: 250px;
+}
+.artikelen {
+    display: inline-block;
+    word-spacing: 10px;
+    text-align: left;
+}
+article {
+    width: 24%;
+    padding-right: 15px;
+    vertical-align: top;
+    margin-top: -300px;
+}
+footer {
+    background-color: rgb(146, 146, 148);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+#Copyright {
+    display: inline-block;
+    margin: 20px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#sitelinks {
+    font-weight: bold;
+}
