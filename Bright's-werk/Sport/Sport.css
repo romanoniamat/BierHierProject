@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', 'sans-serif';
+}
+#wrapper, footer {
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+}
+
+nav {
+    background: url("img/menu-acthergrond.jpg");
+    padding: 10px;
+}
+nav a {
+    color: midnightblue;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 10px;
+}
+#handbal {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#voetbal {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#tennis {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#basketbal{
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#golf {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#rugby {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#korfbal {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+}
+#zwemmen {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+}
+#badminton {
+    width: 170px;
+    height: 110px;
+    padding-right: 10px;
+}
+.artikel1 {
+    width: 53%;
+    margin-top: 55px;
+    padding-bottom: 30px;
+}
+.artikel2 {
+    width: 53%;
+    float: right;
+    margin-top: -95px;
+    margin-right: 204px;
+    padding-bottom: 15px;
+}
+.artikel3 {
+    float: right;
+    margin-top: -294px;
+    width: 67%;
+}
+footer {
+    background-color: rgb(146, 146, 148);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+#Copyright {
+    display: inline-block;
+    margin: 20px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#sitelinks {
+    font-weight: bold;
+}
