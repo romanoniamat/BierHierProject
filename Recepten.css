@@ -1,0 +1,110 @@
+nav {
+    background: url("img/blue.png");
+
+    padding: 20px;
+
+}
+
+nav a {
+    margin-right: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+
+body {
+    padding: 20px;
+}
+.stampotboerenkool{
+    width: 50%;
+    display: inline-block;
+}
+.stampotjus{
+    width: 70%;
+}
+article{
+    display: inline-block;
+    width: 100%;
+    padding-right: 10px;
+    vertical-align: top;
+}
+#tattachaps1{
+    width: 165px;
+    height: 175px;
+    float: right;
+    margin-top: -75px;
+    margin-right: 96px;
+}
+#tattachaps2 {
+    width: 303px;
+    height: 175px;
+    margin-top: -75px;
+    margin-right: 25px;
+    float: right;
+}
+#tattachaps3 {
+    width: 245px;
+    height: 175px;
+    margin-right: -249px;
+    margin-top: -270px;
+    float: right;
+}
+#tattachaps4 {
+    width: 208px;
+    height: 175px;
+    float: right;
+    margin-top: -270px;
+    margin-right: -492px;
+}
+
+footer {
+    background-color: rgb(146, 146, 148);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+#Copyright {
+    display: inline-block;
+    margin: 20px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#sitelinks {
+    font-weight: bold;
+}
