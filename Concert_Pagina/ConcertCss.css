@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+}
+
+div#wrapper {
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+h1 {
+    color: mediumblue ;
+    padding: 20px;
+}
+
+body {
+    font-family: 'ariel' , sans-serif;
+}
+nav {
+    padding: 20px;
+    background: url("img/Entry.jpg");
+}
+nav a {
+    margin-right: 110px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: None;
+    color: white;
+}
+
+img.visuals {
+    width: 447px;
+    margin-bottom: 13px;
+}
+
+article {
+    display: inline-block;
+    width: 97%;
+    padding-right: 10px;
+    vertical-align: top;
+}
+
+section.Article {
+float: left
+}
+
+section.visuals {
+    width: 33%;
+    float: left;
+}
+section.visuals{
+    width: 470px;
+}
+section.Article {
+    text-align: left;
+    width: 240px;
+}
+section.Article2 {
+    width: 348px;
+    text-align: left;
+    float: left;
+}
+section.Article3 {
+    width: 350px;
+    text-align: left;
+    float: left;
+}
+ h2 {
+     padding-top: 156px;
+     margin-left: 30px;
+ }
+
+iframe {
+    margin-top: 10px;
+}
+
+.Pictures {
+    height: 150px;
+    margin: 46px;
+    float: right;
+}
+img.Pictures{
+    width: 210px;
+}
+img#movedown {
+    transform: translateY(4px);
+}
+
+footer {
+    background-color: rgb(146, 146, 148);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+Copyright {
+    display: inline-block;
+    margin: 20px;
+}
+.fa {
+    padding: 13px;
+    font-size: 25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#sitelinks {
+    font-weight: bold;
+    padding-right: 200px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: lime;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}

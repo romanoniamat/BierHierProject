@@ -1,0 +1,139 @@
+
+h1 {
+    color:dodgerblue ;
+    padding-right: 63px;
+    text-align: right;
+    margin-right: 250px;
+}
+p {
+    text-align: right;
+    margin-right: 270px;
+}
+
+body {
+    font-family: 'ariel' , sans-serif;
+}
+nav {
+    background: url("Img/Nav.jpg");
+    padding: 20px;
+}
+nav a {
+    margin-right: 110px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: None;
+    color: white;
+}
+
+img {
+    width: 615px;
+    height: 425px;
+    padding-left: 113px;
+}
+img.Foto {
+    width: 291px;
+    height: 400px;
+    padding-left: 90px;
+
+}
+
+
+h2 {
+    padding-top: 156px;
+    margin-left: 30px;
+}
+
+iframe {
+    margin-top: 10px;
+}
+
+.Pictures {
+    height: 150px;
+    margin-top: 51px;
+    float: right;
+}
+img.Pictures{
+    width: 210px;
+}
+img#movedown {
+    transform: translateY(4px);
+}
+
+footer {
+    background-color: rgb(146, 146, 148);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+Copyright {
+    display: inline-block;
+    margin: 20px;
+}
+.fa {
+    padding: 13px;
+    font-size: 25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#Copyright {
+    font-weight: bold;
+    padding-right: 838px;
+}
+
+#sitelinks {
+    font-weight: bold;
+    padding-right: 1066px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: lime;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #bb0000;
+    background-color: transparent;
+    text-decoration: underline;
+}
